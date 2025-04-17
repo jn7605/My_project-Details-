@@ -1,0 +1,72 @@
+html{
+    background-image: linear-gradient(to right, rgb(80, 80, 73), rgba(0, 0, 0, 0.844));
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+}
+
+nav a{
+    text-decoration: none;
+    color: rgb(255, 204, 65);
+}
+
+
+.navigation{
+    position: fixed;
+    position: relative;
+    left: 17%;
+    top: 2%;
+
+    font-weight: bolder;
+    font-size: larger;
+    color: azure;
+}
+
+.p_photo{
+    margin-left: 6%;
+    margin-bottom: 4%;
+    border-radius: 10%;
+}
+
+.content_my_profile{
+    display: flex;
+    justify-content: flex-start;
+    color: rgb(206, 206, 206);
+}
+
+.title{
+    color: rgb(221, 255, 0);
+    font-size: 2.2rem;
+}
+
+.para_my_profile,.list, .para_{
+    margin-left: 4%;
+    font-size:x-large;
+    text-decoration: none;
+}
+
+.content_2{
+    background-image: url("bgi.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.list{
+    color: rgb(206, 206, 206);
+}
+
+table{
+    margin-left: 28%;
+    margin-bottom: 3%;
+    color: rgb(247, 255, 227);
+    font-weight: bold;
+    font-size: x-large;
+}
+
+.para_{
+    color: azure;
+}
+
+.facebook{
+    color: rgb(246, 136, 2);
+}
